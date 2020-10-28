@@ -12,3 +12,5 @@ Underconstruction
 [-] Map day and color (Monday => Yellow , Friday => Blue)
 
 [-] Add query option (Monk theme , Scifi theme)
+
+![Sawasdee](https://i.imgur.com/mUxeAr5.png)
